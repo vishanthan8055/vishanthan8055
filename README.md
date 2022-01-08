@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://mynamevs.netlify.app/">My Name Here</a>
+<h1 align="center">Hi 👋, <a href="https://mynamevs.netlify.app/">My Name Here</a>
 </h1>
 <h3 align="center">A Boy living in a Techno World!!!</h3>
 
