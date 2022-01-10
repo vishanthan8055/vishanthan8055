@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, <a href="https://mynamevs.netlify.app/">My Name Here</a>
 </h1>
-<h3 align="center">A Boy living in a Techno World!!!</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FFFF&center=true&vCenter=true&lines=A+Boy+living+in+a+Techno+World!!!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishanthan8055&label=Profile%20views&color=0e75b6&style=flat-square" alt="vishanthan8055" /> </p>
 <div align="center">
