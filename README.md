@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishanthan8055&label=Profile%20views&color=0e75b6&style=flat-square" alt="vishanthan8055" /> </p>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishanthan8055&theme=darkhub&margin-h=5&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishanthan8055&theme=gruvbox&margin-h=5&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <p align="left"> <a href="https://twitter.com/shreevishanthan" target="blank"><img src="https://img.shields.io/twitter/follow/shreevishanthan?logo=twitter&style=for-the-badge" alt="shreevishanthan" /></a> </p>
