@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <a href="https://mynamevs.netlify.app/">My Name Here</a>
+<h1 align="center">Hi 👋, <a href="https://mynamevs.netlify.app/">My Name Here</a><p></p><img src='https://s10.gifyu.com/images/pro-unscreen.gif' width='40' height='40'>
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Doing+Code+From+Home&font=Fira%20Code&center=true&width=380&height=50">
