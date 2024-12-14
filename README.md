@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishanthan8055&show_icons=true&theme=tokyonight&locale=en" alt="vishanthan8055" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishanthan8055&theme=dark" alt="vishanthan8055" /></p>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/vishanthan8055?ext=contest&theme=dark)](https://leetcode.com/vishanthan8055)
