@@ -3,19 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishanthan8055&label=Profile%20views&color=0e75b6&style=flat" alt="vishanthan8055" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishanthan8055&theme=tokyonight" alt="vishanthan8055" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishanthan8055&theme=tokyonight" alt="vishanthan8055" /></a> </p>-->
+<!--<p align="left"> <a href="https://twitter.com/shreevishanthan" target="blank"><img src="https://img.shields.io/twitter/follow/shreevishanthan?logo=twitter&style=for-the-badge" alt="shreevishanthan" /></a> </p>-->
 
-<p align="left"> <a href="https://twitter.com/shreevishanthan" target="blank"><img src="https://img.shields.io/twitter/follow/shreevishanthan?logo=twitter&style=for-the-badge" alt="shreevishanthan" /></a> </p>
+- 🌱 I’m currently learning **Problem Solving, Angular, Front-End Frameworks**
 
-- 🌱 I’m currently learning **Angular, Front-End Frameworks**
-
-- 💬 Ask me about **Python, Java, Problem Solving**
+- 💬 Ask me about **Java, Python, Problem Solving**
 
 - 📫 How to reach me **vishanthan8055@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uv43kEFZIBtZ2z2DGVlcqh_UNhuraO1X/view?usp=drivesdk](https://drive.google.com/file/d/1uv43kEFZIBtZ2z2DGVlcqh_UNhuraO1X/view?usp=drivesdk)
-
-- ⚡ Fun fact **Laugh until you can breath**
+- 📄 Know about my experiences [My Resume ](https://drive.google.com/file/d/1uv43kEFZIBtZ2z2DGVlcqh_UNhuraO1X/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,6 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishanthan8055&show_icons=true&theme=tokyonight&locale=en" alt="vishanthan8055" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishanthan8055&theme=dark" alt="vishanthan8055" /></p>
-[![roadmap.sh](https://roadmap.sh/card/tall/675ee590ecc889bb0dc6f37d?variant=dark)](https://roadmap.sh)
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishanthan8055&theme=dark" alt="vishanthan8055" /></p>-->
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/675ee590ecc889bb0dc6f37d?variant=dark" alt="roadmap.sh"/></a>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/vishanthan8055?ext=contest&theme=dark)](https://leetcode.com/vishanthan8055)
